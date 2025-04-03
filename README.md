@@ -1,1 +1,1 @@
-# Snake-water-gun-game
+# Rock-Paper-Scissor game
